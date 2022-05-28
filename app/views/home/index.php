@@ -2,7 +2,7 @@
   global $data;
   include("header.php");
 ?>
-CIackawsodcjawiopd
+CIackawso
 <?php
   include("footer.php");
 ?>
